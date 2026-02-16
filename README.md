@@ -27,46 +27,45 @@ These objectives reflect the key business questions outlined in the project repo
 
 The dataset contains transaction-level information related to suppliers, products, purchases, sales, pricing, and costs. Key fields include:
 
-Purchase and selling prices
+- Purchase and selling prices
 
-Sales quantities and revenue
+- Sales quantities and revenue
 
-Profit and profit margins
+- Profit and profit margins
 
-Freight costs
+- Freight costs
 
-Inventory levels
+- Inventory levels
 
-Supplier and product identifiers
+- Supplier and product identifiers
 
-Data cleaning steps included removing records with zero sales and loss-making transactions to focus on meaningful performance patterns. 
+- Data cleaning steps included removing records with zero sales and loss-making transactions to focus on meaningful performance patterns. 
 
 
-Analysis Performed
-Exploratory Data Analysis
+- Analysis Performed
+**- Exploratory Data Analysis**
 
 Initial analysis revealed pricing outliers, negative profit cases, and large variation in freight costs, suggesting inconsistencies in procurement and logistics. Some products showed zero sales despite being purchased, indicating potential obsolete or slow-moving stock. 
 
 
 
-Supplier Contribution
+**Supplier Contribution**
 
 A small group of suppliers accounts for a large share of purchases. The top ten suppliers contribute approximately 65.7% of total purchases, indicating a high level of dependency and potential supply risk. 
 
-Vendor Performance Report
 
 Bulk Purchasing Impact
 
 Larger purchase quantities were associated with significantly lower unit costs. Bulk orders showed around 72% lower unit prices compared to small orders, demonstrating clear economies of scale. 
 
 
-Inventory Performance
+**Inventory Performance**
 
 The analysis identified about $2.71 million tied up in slow-moving or unsold inventory. Low turnover items increase storage costs and reduce available working capital. 
 
 
 
-Pricing and Product Performance
+**Pricing and Product Performance**
 
 A set of 198 products was identified with low sales but relatively high profit margins. These products may benefit from targeted marketing or pricing adjustments to increase demand without sacrificing profitability. 
 
@@ -78,15 +77,15 @@ Lower-volume suppliers tended to operate with higher margins, while high-volume 
 
 **Key Findings**
 
-Heavy reliance on a small number of suppliers increases operational risk
+- Heavy reliance on a small number of suppliers increases operational risk
 
-Bulk purchasing significantly reduces unit costs
+- Bulk purchasing significantly reduces unit costs
 
-Slow-moving inventory ties up capital and increases holding costs
+- Slow-moving inventory ties up capital and increases holding costs
 
-Pricing strategy strongly influences profitability
+- Pricing strategy strongly influences profitability
 
-Some high-margin products suffer from low demand
+- Some high-margin products suffer from low demand
 
 **Recommendations:**
 
@@ -114,11 +113,11 @@ Power BI for dashboard development and visualization
 
 **- Repository Contents**
 
-Power BI dashboard file (.pbix)
+- Power BI dashboard file (.pbix)
 
-Analysis report
+- Analysis report
 
-Supporting data and scripts
+- Supporting data and scripts
 
 **Skills Demonstrated**
 
