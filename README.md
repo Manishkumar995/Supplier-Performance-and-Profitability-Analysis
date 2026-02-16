@@ -21,7 +21,7 @@ Companies can lose profit due to inefficient pricing, slow-moving inventory, or 
 
 These objectives reflect the key business questions outlined in the project report. 
 
-**Vendor Performance Report**
+**Supplier Performance Report**
 
 **Data Description**
 
