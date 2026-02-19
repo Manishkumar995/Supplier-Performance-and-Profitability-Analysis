@@ -133,7 +133,7 @@ Power BI for dashboard development and visualization
 
 -Insight generation for decision support
 
-**Author
+**Author**
 
-Manish Kumar**
+**Manish Kumar**
 
