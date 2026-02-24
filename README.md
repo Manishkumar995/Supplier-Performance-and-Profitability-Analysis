@@ -42,14 +42,14 @@ The dataset contains transaction-level information related to suppliers, product
 - Data cleaning steps included removing records with zero sales and loss-making transactions to focus on meaningful performance patterns. 
 
 
-**- Analysis Performed**
+**Analysis Performed**
 **- Exploratory Data Analysis**
 
 Initial analysis revealed pricing outliers, negative profit cases, and large variation in freight costs, suggesting inconsistencies in procurement and logistics. Some products showed zero sales despite being purchased, indicating potential obsolete or slow-moving stock. 
 
 
 
-**Supplier Contribution**
+**Supplier Contribution-**
 
 A small group of suppliers accounts for a large share of purchases. The top ten suppliers contribute approximately 65.7% of total purchases, indicating a high level of dependency and potential supply risk. 
 
