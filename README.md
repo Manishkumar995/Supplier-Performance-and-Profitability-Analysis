@@ -1,4 +1,4 @@
-**Supplier Performance and Profitability Analysis**
+**Supplier Performance and Profitability Analysis-**
 **Summary**
 
 Supplier selection decisions influence profitability, working capital, service levels, and operational risk. However, organizations often evaluate vendors primarily on purchase price, overlooking their full financial and operational impact.
