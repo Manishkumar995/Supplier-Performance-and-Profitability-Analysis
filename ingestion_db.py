@@ -19,7 +19,7 @@ def ingest_db(df, table_name, engine):
     df.to_sql(table_name, con = engine, if_exists = 'replace', index = False)
     
 def load_raw_data():
-    '''this function will load the CSVs as dataframe and ingest into db'''
+    
     start = time.time()
     for file in os.listdir('data'):
         if '.csv' in file:
