@@ -15,7 +15,7 @@ logging.basicConfig(
 engine = create_engine('sqlite:///inventory.db')
 
 def ingest_db(df, table_name, engine):
-    '''this function will ingest the dataframe into database table'''
+   
     df.to_sql(table_name, con = engine, if_exists = 'replace', index = False)
     
 def load_raw_data():
