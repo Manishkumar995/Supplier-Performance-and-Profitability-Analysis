@@ -1,4 +1,4 @@
-**Supplier Performance and Profitability Analysis-**
+**Supplier Performance and Profitability Analysis**
 
 **Summary-**
 
